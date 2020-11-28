@@ -37,17 +37,10 @@ font-size: 22px;
 	color: #FFFFFF;
 }
 
-.image {
-border-radius: 50px;
-margin: 20px;
-width: 100px;
-height:100px;
-}
-
 details {
  background: gold;
  border-radius: 10px;
- width: 150px;
+ width: 400px;
  padding: 5px;
 text-align: center;
 }
